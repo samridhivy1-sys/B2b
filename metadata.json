@@ -1,0 +1,6 @@
+{
+  "name": "IspatSetu - B2B Steel Procurement & Quotations",
+  "description": "B2B digital procurement and quotation matching platform for steel wholesalers, retailers, contractors, and rural/semi-urban buyers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
